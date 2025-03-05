@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaaltaweel04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=black&title_color=FFFFFF&text_color=FFFFFF&bg_color=0F0F0F&border_color=444444"
         height="150"
@@ -11,7 +11,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
     <img
         src="https://i.makeagif.com/media/2-06-2024/gqcrlY.gif"
         height="200"
